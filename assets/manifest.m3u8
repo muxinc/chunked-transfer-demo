@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:6
+#EXT-X-VERSION:3
+#EXTINF:5.0,
+/ts/0.ts
+#EXTINF:5.0,
+/ts/1.ts
+#EXTINF:5.0,
+/ts/2.ts
+#EXTINF:5.0,
+/ts/3.ts
+#EXTINF:5.0,
+/ts/4.ts
+#EXTINF:1.400000,
+/ts/5.ts
+#EXT-X-ENDLIST
